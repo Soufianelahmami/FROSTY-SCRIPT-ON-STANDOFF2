@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"FROSTY SCRIPT ON STANDOFF2 mod 1","desc":"Standoff 2, the popular mobile first-person shooter (FPS) game, has captured the hearts of millions of gamers worldwide","photo":"https://iili.io/HbCmc4j.webp"},
+  {"title":"FROSTY SCRIPT ON STANDOFF2 mod 2","desc":"Its vibrant community constantly strives to enhance the gaming experience, and one way they achieve this is through custom scripts and modifications","photo":"https://iili.io/HbCm03x.webp"},
+  {"title":"FROSTY SCRIPT ON STANDOFF2 mod 3","desc":"Among the most beloved and innovative is the Frosty Script, which transports players into a winter wonderland within the virtual world of Standoff 2.","photo":"https://iili.io/HbCmaEb.webp"},
+  {"title":"FROSTY SCRIPT ON STANDOFF2 mod 4","desc":"The story of the Frosty Script begins with a dedicated group of modders and gamers who wanted to infuse a touch of winter magic into Standoff 2","photo":"https://iili.io/HbCmYCu.webp"},
+  {"title":"FROSTY SCRIPT ON STANDOFF2 mod 5","desc":"The script started as a passion project, but it quickly gained traction within the community due to its creative and immersive gameplay elements.","photo":"https://iili.io/HbCsLmu.webp"},
+  {"title":"FROSTY SCRIPT ON STANDOFF2 mod 6","desc":"One of the standout features of the Frosty Script is its captivating winter-themed aesthetics. The script transforms the game's maps into snowy landscapes, replacing familiar battlegrounds with icy arenas","photo":"https://iili.io/HbCm1YQ.webp"},
+  {"title":"FROSTY SCRIPT ON STANDOFF2 mod 7","desc":" Players find themselves navigating through blizzards and snowdrifts, adding a unique layer of challenge and realism to the gameplay.","photo":"https://iili.io/HbCmEvV.webp"},
+  {"title":"FROSTY SCRIPT ON STANDOFF2 mod 8","desc":"The Frosty Script also brings seasonal customizations to Standoff 2. Players can equip their characters with winter-themed skins, outfits, and weapon camos","photo":"https://iili.io/HbCmGyB.webp"}
    ]
  
 }
